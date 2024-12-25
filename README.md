@@ -336,4 +336,4 @@ The resulting package can be installed as described above.
 If you like this project, please consider supporting me to continue its development :)
 
 
-<a href="https://ko-fi.com/J3J01BZZ6"><img border="0" alt="ko-fi" src="https://www.ko-fi.com/img/githubbutton_sm.svg" align="left"></a>
+<a href="https://ko-fi.com/J3J01BZZ6"><img border="0" alt="ko-fi" src="https://www.ko-fi.com/img/githubbutton_sm.svg" align="left"></a>)
